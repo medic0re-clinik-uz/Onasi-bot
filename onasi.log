@@ -1,0 +1,255 @@
+2026-10-11 19:14:30,634 Model yuklanmoqda: https://alphacephei.com/vosk/models/vosk-model-small-uz-0.22.zip
+2026-10-11 19:15:09,953 Onasi tayyor.
+2026-10-11 19:15:30,951 Onasi tayyor.
+2026-10-11 19:15:36,424 Ism eshitildi: onasi
+2026-10-11 19:15:56,742 Gemini xatosi: gemini-2.5-flash: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs'
+2026-10-11 19:15:57,243 Gemini xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:15:57,253 Javob xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:16:40,033 Ism eshitildi: onasi
+2026-10-11 19:16:51,081 Gemini xatosi: gemini-2.5-flash: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs'
+2026-10-11 19:16:51,494 Gemini xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:16:51,494 Javob xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:17:05,921 Gemini xatosi: gemini-2.5-flash: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs'
+2026-10-11 19:17:06,408 Gemini xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:17:06,408 Javob xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:17:15,696 Gemini xatosi: gemini-2.5-flash: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs'
+2026-10-11 19:17:16,113 Gemini xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:17:16,113 Javob xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:17:28,606 Gemini xatosi: gemini-2.5-flash: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs'
+2026-10-11 19:17:30,041 Gemini xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:17:30,041 Javob xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:20:40,038 Ism eshitildi: onasi
+2026-10-11 19:20:50,581 Gemini xatosi: gemini-2.5-flash: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs'
+2026-10-11 19:20:51,061 Gemini xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:20:51,061 Javob xatosi: gemini-2.5-flash-lite: HTTP 404 b'{\n  "error": {\n    "code": 404,\n    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemin'
+2026-10-11 19:26:58,689 Onasi tayyor.
+2026-10-11 19:27:05,611 Ism eshitildi: onasi
+2026-10-11 19:28:56,007 Gemini xatosi: gemini-3.8-flash: HTTP 0 The read operation timed out
+2026-10-11 19:28:56,653 Gemini xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:28:56,653 Javob xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:29:23,513 Ism eshitildi: onasi
+2026-10-11 19:31:20,555 Ism eshitildi: onasi
+2026-10-11 19:34:54,157 Onasi tayyor.
+2026-10-11 19:36:02,631 Onasi tayyor.
+2026-10-11 19:36:22,378 Onasi tayyor.
+2026-10-11 19:36:24,522 Ism eshitildi: onasi
+2026-10-11 19:36:35,727 Gemini xatosi: gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-10-11 19:36:36,255 Gemini xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:36:36,255 Javob xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:38:55,931 Onasi tayyor.
+2026-10-11 19:39:01,460 Ism eshitildi: onasi
+2026-10-11 19:44:42,058 Ism eshitildi: onasi
+2026-10-11 19:44:51,503 Gemini xatosi: gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage
+2026-10-11 19:44:52,321 Gemini xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:44:52,321 Javob xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:45:44,512 Gemini xatosi: gemini-3.8-flash: HTTP 0 The read operation timed out
+2026-10-11 19:45:45,156 Gemini xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-11 19:45:45,157 Javob xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-12 10:59:17,911 Onasi tayyor.
+2026-10-12 11:02:51,702 Ism eshitildi: onasi
+2026-10-12 11:03:07,448 Ovozni matnga: 14.9s
+2026-10-12 11:03:07,449 Birinchi matn: 0.0s
+2026-10-12 11:03:13,182 Birinchi ovozgacha: 5.7s
+2026-10-12 11:04:02,945 Ovozni matnga: 44.8s
+2026-10-12 11:04:08,812 Ism eshitildi: onasi
+2026-10-12 11:04:14,432 Ovozni matnga: 4.7s
+2026-10-12 11:04:14,433 Birinchi matn: 0.0s
+2026-10-12 11:04:14,445 Birinchi ovozgacha: 0.0s
+2026-10-12 11:04:24,164 Ovozni matnga: 4.6s
+2026-10-12 11:04:28,966 Gemini xatosi: gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage
+2026-10-12 11:04:30,592 Gemini xatosi: gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-10-12 11:04:30,592 Javob xatosi: gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-10-12 11:04:30,592 Birinchi matn: 6.4s
+2026-10-12 11:04:44,001 Birinchi ovozgacha: 19.8s
+2026-10-12 11:04:47,292 Javob tugadi: 23.1s
+2026-10-12 11:04:52,198 Ovozni matnga: 1.7s
+2026-10-12 11:04:52,841 Gemini xatosi: gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage
+2026-10-12 11:04:54,265 Gemini xatosi: gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-10-12 11:04:54,265 Javob xatosi: gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-10-12 11:04:54,265 Birinchi matn: 2.1s
+2026-10-12 11:04:54,266 Birinchi ovozgacha: 2.1s
+2026-10-12 11:04:57,558 Javob tugadi: 5.4s
+2026-10-12 11:05:08,059 Ovozni matnga: 2.9s
+2026-10-12 11:05:10,947 Gemini xatosi: gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage
+2026-10-12 11:05:20,975 Ishlaydigan model: gemini-3.5-flash-lite
+2026-10-12 11:05:38,682 Birinchi matn: 30.6s
+2026-10-12 11:05:45,645 Birinchi ovozgacha: 37.6s
+2026-10-12 11:05:54,702 Javob tugadi: 46.6s
+2026-10-12 11:06:06,228 Ovozni matnga: 3.0s
+2026-10-12 11:06:23,142 Birinchi matn: 16.9s
+2026-10-12 11:06:26,415 Birinchi ovozgacha: 20.2s
+2026-10-12 11:06:34,869 Javob tugadi: 28.6s
+2026-10-12 19:23:01,815 Onasi tayyor.
+2026-10-12 19:23:07,132 Ism eshitildi: onasi
+2026-10-12 19:23:21,737 Ovozni matnga: 13.7s
+2026-10-12 19:23:21,739 Birinchi matn: 0.0s
+2026-10-12 19:23:21,757 Birinchi ovozgacha: 0.0s
+2026-10-12 19:23:29,191 Ovozni matnga: 1.8s
+2026-10-12 19:23:44,662 Ishlaydigan 'o'ylash' sozlamasi: {'thinkingBudget': 0}
+2026-10-12 19:23:57,662 Birinchi matn: 28.5s
+2026-10-12 19:24:00,263 Birinchi ovozgacha: 31.1s
+2026-10-12 19:24:08,215 Javob tugadi: 39.0s
+2026-10-12 19:24:13,975 Ovozni matnga: 1.3s
+2026-10-12 19:28:24,207 Gemini xatosi: gemini-3.8-flash: HTTP 0 [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-12 19:28:24,210 Gemini xatosi: gemini-3.5-flash-lite: HTTP 0 <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-12 19:28:24,210 Javob xatosi: gemini-3.5-flash-lite: HTTP 0 <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-12 19:28:24,211 Birinchi matn: 250.2s
+2026-10-12 19:28:24,213 Birinchi ovozgacha: 250.2s
+2026-10-12 19:28:28,087 Javob tugadi: 254.1s
+2026-10-12 20:07:21,104 Ism eshitildi: onasi
+2026-10-12 20:07:22,931 Ovozni matnga: 1.0s
+2026-10-12 20:07:22,933 Birinchi matn: 0.0s
+2026-10-12 20:07:22,936 Birinchi ovozgacha: 0.0s
+2026-10-12 20:07:27,851 Ovozni matnga: 1.0s
+2026-10-12 20:08:28,432 Gemini xatosi: gemini-3.8-flash: HTTP 0 The read operation timed out
+2026-10-12 20:08:28,958 Gemini xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-12 20:08:28,958 Javob xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-12 20:08:28,958 Birinchi matn: 61.1s
+2026-10-12 20:08:28,966 Birinchi ovozgacha: 61.1s
+2026-10-12 20:08:32,264 Javob tugadi: 64.4s
+2026-10-12 20:08:39,382 Ovozni matnga: 1.4s
+2026-10-12 20:08:42,953 Gemini xatosi: gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-10-12 20:08:43,437 Gemini xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-12 20:08:43,437 Javob xatosi: gemini-3.5-flash-lite: HTTP 400 {
+  "error": {
+    "code": 400,
+    "message": "Request contains an invalid argument.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2026-10-12 20:08:43,437 Birinchi matn: 4.1s
+2026-10-12 20:08:43,440 Birinchi ovozgacha: 4.1s
+2026-10-12 20:08:46,694 Javob tugadi: 7.3s
+2026-10-12 20:08:50,721 Ovozni matnga: 0.9s
